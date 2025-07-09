@@ -27,9 +27,7 @@ Creative works showcasing visual storytelling, layout design, and branding.
 User interface designs with a focus on user experience, accessibility, and visual balance.
 
 ### Highlights:
-- 🔸 Landing Page UI  
-- 🔸 Mobile App Mockups  
-- 🔸 Portfolio & Resume Designs  
+- 🔸 
 
 > 🛠 Tools: Figma
 
