@@ -1,7 +1,7 @@
 # 🌟 Best Projects Repository
 
-Welcome to my personal portfolio of top projects across various domains — **Graphic Design**, **Web Design**, **Web Development**, and **Programming**. This repository brings together the highlights of my creative and technical work.
-Best projects are stored after a minimum of 4 month time period. Judging is based solely on online/offline opinions.
+Welcome to my personal portfolio of top projects across various domains — **Graphic Design**, **Web Design**, **Web Development**, and **Programming**. This repository brings together the highlights of my creative and technical work. Best projects are stored after a minimum of 4 month time period. Judging is based solely on online/offline opinions.
+
 ---
 
 ## 📁 Repository Structure
