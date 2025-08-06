@@ -6,6 +6,15 @@ Welcome to my personal portfolio of top projects across various domains — **Gr
 
 ## 📁 Repository Structure
 
+| Project Name                              | Category       | Difficulty   |
+| ----------------------------------------- | -------------- | ------------ |
+|   |  |  |
+|   |  |  |
+|   |  |  |
+|   |  |  |
+|  |  |  |
+
+
 ---
 
 ## 🖌️ Graphic Design
