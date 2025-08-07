@@ -21,7 +21,7 @@ Each project is organized with its own directory, source code, and documentation
 
 ## 📂 Projects Included
 
-| 🔢 | Project Name | Description |
+| S.No. | Project Name | Description |
 |----|--------------|-------------|
 | 1. |  |  |
 | 2. |  |  |
