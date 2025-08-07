@@ -40,10 +40,10 @@ Each folder includes:
 
 ---
 ## 🙋‍♀️ Connect with Me
-
 📧 [atreyib11@gmail.com](mailto:atreyib11@gmail.com)  
 🌐 [Github](https://github.com/atreyi-biswas)  
 🔗 [LinkedIn](https://www.linkedin.com/in/atreyi-biswas-02669a309/)
+
 ---
 
 ## 🎯 Usage
