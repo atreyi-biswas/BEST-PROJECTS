@@ -21,7 +21,7 @@ From productivity apps to e-commerce and educational platforms, each design solv
 
 ## 📂 Projects Included
 
-| 🔢 | Project Name | Description |
+| S.No. | Project Name | Description |
 |----|--------------|-------------|
 | 1. |    |    |
 | 2. |    |    |
@@ -45,8 +45,7 @@ Each folder contains:
 
 ## 🎨 Tools Used
 
-- **Figma** – For all UI/UX design and prototyping  
-- Adobe Illustrator / Photoshop (occasionally)  
+- **Figma** – For all UI/UX design and prototyping    
 - Pen & Paper – Sketching ideas before screens  
 - Google Fonts – For typographic consistency  
 
