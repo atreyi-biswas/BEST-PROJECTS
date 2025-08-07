@@ -8,13 +8,13 @@ Each project is organized in its own folder with clean code, proper documentatio
 
 ## 🧠 Core Concepts Covered
 
-- File Handling 📁  
-- Structs & Pointers 🔗  
-- Dynamic Memory Allocation 📦  
-- Recursion & Backtracking 🔁  
-- Linked Lists, Queues, Trees 🌳  
-- System Calls & Process Control ⚙️  
-- Socket Programming 🌐  
+- 📁 File Handling  
+- 🔗 Structs & Pointers   
+- 📦 Dynamic Memory Allocation   
+- 🔁 Recursion & Backtracking   
+- 🌳 Linked Lists, Queues, Trees   
+- ⚙️ System Calls & Process Control   
+- 🌐 Socket Programming   
 
 ---
 
