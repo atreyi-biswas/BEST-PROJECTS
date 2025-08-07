@@ -64,7 +64,7 @@ A collection of programs and mini-projects focused on logic building, algorithms
 ### Highlights:
 - 🔸 
 
-> 🛠 Languages: C++, C
+> 🛠 Languages: C++, C, Python
 
 [🔗 View Programming Projects](./programming)
 
